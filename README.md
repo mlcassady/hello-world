@@ -1,3 +1,2 @@
 # hello-world
-Stay tuned....
-Hello World! I'm obsessed with Girl Scout Thin Mint coolies.
+Hello World! I'm obsessed with Girl Scout Thin Mint cookies.
